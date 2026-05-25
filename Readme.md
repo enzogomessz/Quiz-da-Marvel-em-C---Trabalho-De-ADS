@@ -3,7 +3,6 @@
 ## Informações do Aluno
 
 - **Nome:** Enzo Gomes De Sousa Caldas
-- **Matrícula:** 01891694
 - **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 - **Instituição:** Uninassau
 
